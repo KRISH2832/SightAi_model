@@ -163,22 +163,13 @@ Below are the objects on which it was tested and it gave the following result wh
 THE ACCURACY OF CUP IS 99%
 
 
-![image](https://github.com/KRISH2832/SightAi_model/assets/143683619/20377763-3cc1-4c3e-a5ed-544e00d58880)
 
-THE FINAL ACCURACY OF REMOTE IS 98%
 
 ![image](https://github.com/KRISH2832/SightAi_model/assets/143683619/13cc5210-b902-4f7e-889b-aaea8581b6e0)
 
 THE FINAL ACCURACY OF BED IS 98%
 
 
-![image](https://github.com/KRISH2832/SightAi_model/assets/143683619/58385055-783f-46f4-b001-b785463f31af)
 
-THE FINAL ACCURACY OF CHAIR IS 96%
-
-
-![image](https://github.com/KRISH2832/SightAi_model/assets/143683619/38e7057b-6599-46ae-9180-f8b6069ce3e4)
-
-THE FINAL ACCURACY OF TV IS 96%
 
 
